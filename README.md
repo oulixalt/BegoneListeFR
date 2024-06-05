@@ -25,7 +25,7 @@ Vous pouvez importer la liste directement dans l'application <a href="https://ap
 
 **Utilisation**
 
-1. Téléchargez la liste .xml depuis votre téléphone
+1. Téléchargez la <a href="https://github.com/oulixalt/BegoneListeFR/blob/main/Begone-FR.xml">liste .xml</a> depuis votre téléphone
 2. Dans Begon, allez dans "importer de nouveaux numéros"
 3. Sélectionnez le fichier .xml
 4. Cliquez sur "Recharger tous les numéros" et patientez
