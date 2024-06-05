@@ -23,13 +23,26 @@ Nombre de numéros bloqués : **24 480 000 numéros**
 
 Vous pouvez importer la liste directement dans l'application <a href="https://apps.apple.com/fr/app/begone-blocage-spam-appel/id1596818195">Begone disponible sur IOS</a>.
 
+**Prérequis**
+
+1. Avoir l'application "Dropbox"
+2. Avoir l'application "Fichiers"
+3. Pouvoir accéder à Dropbox depuis l'application "Fichiers"
+
+<i>IOS gère très mal les fichiers XML. Quand on les télécharge, IOS convertit automatiquement le fichier .xml en fichier .txt, inutilisable dans Begone.
+En respectant la procédure ci-dessous, il est possible de contourner ce problème.</i>
+
 **Utilisation**
 
-1. Téléchargez la <a href="https://github.com/oulixalt/BegoneListeFR/blob/main/Begone-FR.xml">liste .xml</a> depuis votre téléphone
-2. Dans Begon, allez dans "importer de nouveaux numéros"
-3. Sélectionnez le fichier .xml
-4. Cliquez sur "Recharger tous les numéros" et patientez
-5. Voilà !
+1. Allez dans la page de téléchargement de la <a href="https://github.com/oulixalt/BegoneListeFR/blob/main/Begone-FR.xml">liste .xml</a> depuis votre téléphone
+2. Cliquez sur les trois petits points "..." puis "download"
+3. Quand la pop-up s'ouvre vous demandant si vous voulez télécharger "Begone-FR.xml", cliquez sur "Afficher"
+4. Cliquez sur le bouton "partager" puis sélectionnez Dropbox (devrait fonctionner avec une autre application cloud)
+5. Enregistrez le fichier dans le dossier de votre choix
+6. Dans Begon, allez dans "importer de nouveaux numéros"
+7. Sélectionnez le fichier .xml dans le dossier depuis l'application "fichiers"
+8. Cliquez sur "Recharger tous les numéros" et patientez
+9. Voilà !
 
 **Non-responsabilité**
 
