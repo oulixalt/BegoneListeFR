@@ -36,7 +36,7 @@ En respectant la procédure ci-dessous, il est possible de contourner ce problè
 
 <i>Procédure simplifiée en sélectionnant le lien</i>
 
-1. Depuis votre téléphone, <a href="https://raw.githubusercontent.com/oulixalt/BegoneListeFR/main/Begone-FR.xml">**Appuyez ici pour afficher le fichier XML**</a>
+1. Depuis votre téléphone, <a href="https://raw.githubusercontent.com/oulixalt/BegoneListeFR/main/Begone-FR.xml">**Appuyez ici pour afficher le fichier XML**</a> <i>il faut vraiment rester appuyé sur le lien et pas cliquer</i>
 2. La prévisualisation s'ouvre, scrollez et cliquez sur "Télécharger le fichier lié"
 3. Dans Begone, allez dans "importer de nouveaux numéros"
 4. Sélectionnez le fichier .xml téléchargé
