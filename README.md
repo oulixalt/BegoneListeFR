@@ -34,15 +34,13 @@ En respectant la procédure ci-dessous, il est possible de contourner ce problè
 
 **Utilisation**
 
-1. Allez dans la page de téléchargement de la <a href="https://github.com/oulixalt/BegoneListeFR/blob/main/Begone-FR.xml">liste .xml</a> depuis votre téléphone
-2. Cliquez sur les trois petits points "..." puis "view" dans "raw file content" (juste au dessus de la zone de code) ou <a href="https://raw.githubusercontent.com/oulixalt/BegoneListeFR/main/Begone-FR.xml">**cliquez ici pour afficher le fichier XML**</a>
-3. Quand la pop-up s'ouvre vous demandant si vous voulez télécharger "Begone-FR.xml", cliquez sur "Afficher"
-4. Cliquez sur le bouton "partager" puis sélectionnez "Enregistrer dans Dropbox" (devrait fonctionner avec une autre application cloud)
-5. Enregistrez le fichier dans le dossier de votre choix
-6. Dans Begone, allez dans "importer de nouveaux numéros"
-7. Sélectionnez le fichier .xml dans le dossier depuis l'application "fichiers"
-8. Cliquez sur "Recharger tous les numéros" et patientez
-9. Voilà !
+1. <a href="https://raw.githubusercontent.com/oulixalt/BegoneListeFR/main/Begone-FR.xml">**cliquez ici pour afficher le fichier XML**</a>
+2. Cliquez sur le bouton "partager" puis sélectionnez "Enregistrer dans Dropbox" (devrait fonctionner avec une autre application cloud)
+3. Enregistrez le fichier dans le dossier de votre choix
+4. Dans Begone, allez dans "importer de nouveaux numéros"
+5. Sélectionnez le fichier .xml dans le dossier depuis l'application "fichiers"
+6. Cliquez sur "Recharger tous les numéros" et patientez
+7. Voilà !
 
 **Non-responsabilité**
 
