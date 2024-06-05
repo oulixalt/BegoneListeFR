@@ -47,7 +47,7 @@ En respectant la procédure ci-dessous, il est possible de contourner ce problè
 5. Cliquez sur "Recharger tous les numéros" et patientez
 6. Voilà !
 
-<i>Avec app type Dropbox</i>
+<i>Procédure avec app type Dropbox</i>
 
 1. <a href="https://raw.githubusercontent.com/oulixalt/BegoneListeFR/main/Begone-FR.xml">**Cliquez ici pour afficher le fichier XML**</a>
 2. Cliquez sur le bouton "partager" puis sélectionnez "Enregistrer dans Dropbox" (devrait fonctionner avec n'importe quelle autre application cloud)
