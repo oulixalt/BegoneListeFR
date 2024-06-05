@@ -13,7 +13,7 @@ Cette liste de règles, utilisable dans l'application **Begone** sur IOS, permet
 
 Les plages sont : 0162, 0163, 0270, 0271, 0377, 0378, 0424, 0425, 0568, 0569, 0948 et 0949
 
-Les numéros qui pourraient être suspicieux de chez OnOff sont également bloqués : 06.44.66/06.44.67/06.44.68/06.44.69/07.56.8/07.56.9 (source <a href="https://www.bfmtv.com/tech/cybersecurite/arnaques-par-telephone-voici-les-indicatifs-dont-il-faut-se-mefier_AV-202404240030.html">Article BFMTV</a>
+Les numéros qui pourraient être suspicieux de chez OnOff sont également bloqués : 06.44.66/06.44.67/06.44.68/06.44.69/07.56.8/07.56.9 (source <a href="https://www.bfmtv.com/tech/cybersecurite/arnaques-par-telephone-voici-les-indicatifs-dont-il-faut-se-mefier_AV-202404240030.html">Article BFMTV</a>)
 
 Les numéros sont bloqués avec et sans l'indicatif du pays.
 
