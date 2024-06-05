@@ -32,7 +32,18 @@ Vous pouvez importer la liste directement dans l'application <a href="https://ap
 <i>IOS gère très mal les fichiers XML. Quand on les télécharge, IOS convertit automatiquement le fichier .xml en fichier .txt, inutilisable dans Begone.
 En respectant la procédure ci-dessous, il est possible de contourner ce problème.</i>
 
-**Utilisation**
+**Procédure**
+
+<i>Procédure simplifiée en sélectionnant le lien</i>
+
+1. Depuis votre téléphone, <a href="https://raw.githubusercontent.com/oulixalt/BegoneListeFR/main/Begone-FR.xml">**Appuyez ici pour afficher le fichier XML**</a>
+2. La prévisualisation s'ouvre, scrollez et cliquez sur "Télécharger le fichier lié"
+3. Dans Begone, allez dans "importer de nouveaux numéros"
+4. Sélectionnez le fichier .xml téléchargé
+5. Cliquez sur "Recharger tous les numéros" et patientez
+6. Voilà !
+
+</i>Avec app type Dropbox</i>
 
 1. <a href="https://raw.githubusercontent.com/oulixalt/BegoneListeFR/main/Begone-FR.xml">**Cliquez ici pour afficher le fichier XML**</a>
 2. Cliquez sur le bouton "partager" puis sélectionnez "Enregistrer dans Dropbox" (devrait fonctionner avec n'importe quelle autre application cloud)
@@ -41,6 +52,7 @@ En respectant la procédure ci-dessous, il est possible de contourner ce problè
 5. Sélectionnez le fichier .xml dans le dossier depuis l'application "fichiers"
 6. Cliquez sur "Recharger tous les numéros" et patientez
 7. Voilà !
+
 
 **Non-responsabilité**
 
