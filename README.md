@@ -34,8 +34,8 @@ En respectant la procédure ci-dessous, il est possible de contourner ce problè
 
 **Utilisation**
 
-1. <a href="https://raw.githubusercontent.com/oulixalt/BegoneListeFR/main/Begone-FR.xml">**cliquez ici pour afficher le fichier XML**</a>
-2. Cliquez sur le bouton "partager" puis sélectionnez "Enregistrer dans Dropbox" (devrait fonctionner avec une autre application cloud)
+1. <a href="https://raw.githubusercontent.com/oulixalt/BegoneListeFR/main/Begone-FR.xml">**Cliquez ici pour afficher le fichier XML**</a>
+2. Cliquez sur le bouton "partager" puis sélectionnez "Enregistrer dans Dropbox" (devrait fonctionner avec n'importe quelle autre application cloud)
 3. Enregistrez le fichier dans le dossier de votre choix
 4. Dans Begone, allez dans "importer de nouveaux numéros"
 5. Sélectionnez le fichier .xml dans le dossier depuis l'application "fichiers"
