@@ -25,6 +25,10 @@ Vous pouvez importer la liste directement dans l'application <a href="https://ap
 
 **Prérequis**
 
+Procédure simplifiée : avoir l'application "Fichiers"
+
+Procédure avec Dropbox : 
+
 1. Avoir l'application "Dropbox"
 2. Avoir l'application "Fichiers"
 3. Pouvoir accéder à Dropbox depuis l'application "Fichiers"
