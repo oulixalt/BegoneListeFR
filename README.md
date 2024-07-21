@@ -39,7 +39,7 @@ En respectant la procédure ci-dessous, il est possible de contourner ce problè
 **Procédure**
 
 
-1. Depuis votre téléphone, <a href="https://github.com/oulixalt/BegoneListeFR/releases/download/v1.0/Begone-FR.xml">**Appuyez ici pour afficher le fichier XML de la liste complète**</a> (pour la liste complète sans blocage des numéros OnOff <a href="https://github.com/oulixalt/BegoneListeFR/releases/download/v1.0b/Begone-sans-onoff.xml">appuyez ici</a>) <i>il faut vraiment rester appuyé sur le lien et pas cliquer</i>
+1. Depuis votre téléphone, <a href="https://raw.githubusercontent.com/oulixalt/BegoneListeFR/Liste-compl%C3%A8te/Begone-FR.xml">**Appuyez ici pour afficher le fichier XML de la liste complète**</a> (pour la liste complète sans blocage des numéros OnOff <a href="https://raw.githubusercontent.com/oulixalt/BegoneListeFR/Liste-compl%C3%A8te/Begone-sans-onoff.xml">appuyez ici</a>) <i>il faut vraiment rester appuyé sur le lien et pas cliquer</i>
 2. La prévisualisation s'ouvre, scrollez et cliquez sur "Télécharger le fichier lié"
 3. Dans Begone, allez dans "importer de nouveaux numéros"
 4. Sélectionnez le fichier .xml téléchargé
@@ -51,11 +51,11 @@ En respectant la procédure ci-dessous, il est possible de contourner ce problè
 
 <i>05/06/2024</i>
 
-* V1.0 : Mise en ligne de la liste complète avec blocage des numéros de démarchage et numéros OnOff : <a href="https://github.com/oulixalt/BegoneListeFR/releases/download/v1.0/Begone-FR.xml">téléchargement</a>
+* V1.0 : Mise en ligne de la liste complète avec blocage des numéros de démarchage et numéros OnOff : <a href="https://raw.githubusercontent.com/oulixalt/BegoneListeFR/Liste-compl%C3%A8te/Begone-FR.xml">téléchargement</a>
 
 <i>21/07/2024</i>
 
-* V1.0b : Mise en ligne de la liste sans blocage des numéros OnOff (la v1.0 ne change pas, c'est juste la liste sans les numéros OnOff) : <a href="https://github.com/oulixalt/BegoneListeFR/releases/download/v1.0b/Begone-sans-onoff.xml">téléchargement</a>
+* V1.0b : Mise en ligne de la liste sans blocage des numéros OnOff (la v1.0 ne change pas, c'est juste la liste sans les numéros OnOff) : <a href="https://raw.githubusercontent.com/oulixalt/BegoneListeFR/Liste-compl%C3%A8te/Begone-sans-onoff.xml">téléchargement</a>
 * Publication des fichiers dans realease pour faciliter le suivi
 
 **Non-responsabilité**
