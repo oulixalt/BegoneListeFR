@@ -7,55 +7,56 @@
 
 </div>
 
+
 **Détail de la liste de blocage**
 
 Cette liste de règles, utilisable dans l'application **Begone** sur IOS, permet de bloquer automatiquement les plages de numéros indésirables liées au démarchage commercial pour la France métropolitaine.
 
-Les plages sont : 0162, 0163, 0270, 0271, 0377, 0378, 0424, 0425, 0568, 0569, 0948 et 0949
+Les plages sont : 0162, 0163, 0270, 0271, 0377, 0378, 0424, 0425, 0568, 0569, 0948 et 0949.
 
-Les numéros qui pourraient être suspicieux de chez OnOff sont également bloqués : 06.44.66/06.44.67/06.44.68/06.44.69/07.56.8/07.56.9 (source <a href="https://www.bfmtv.com/tech/cybersecurite/arnaques-par-telephone-voici-les-indicatifs-dont-il-faut-se-mefier_AV-202404240030.html">Article BFMTV</a>)
+Les numéros qui pourraient être suspicieux de chez OnOff sont également bloqués : 06.44.66/06.44.67/06.44.68/06.44.69/07.56.8/07.56.9 (source <a href="https://www.bfmtv.com/tech/cybersecurite/arnaques-par-telephone-voici-les-indicatifs-dont-il-faut-se-mefier_AV-202404240030.html">Article BFMTV</a>) <i>la liste est également disponible sans blocage des numéros OnOff, c'est la v1.0b.</i>
 
 Les numéros sont bloqués avec et sans l'indicatif du pays.
 
-Nombre de numéros bloqués : **24 480 000 numéros**
+Nombre de numéros bloqués (v1.0) : **24 480 000 numéros**.
+
+Nombre de numéros bloqués sans OnOff (v1.0b) : **24 000 000 numéros**.
+
 
 **Begone**
 
 Vous pouvez importer la liste directement dans l'application <a href="https://apps.apple.com/fr/app/begone-blocage-spam-appel/id1596818195">Begone disponible sur IOS</a>.
 
+
 **Prérequis**
 
-Procédure simplifiée : avoir l'application "Fichiers"
-
-Procédure avec Dropbox : 
-
-1. Avoir l'application "Dropbox"
-2. Avoir l'application "Fichiers"
-3. Pouvoir accéder à Dropbox depuis l'application "Fichiers"
+Procédure : avoir l'application "Fichiers"
 
 <i>IOS gère très mal les fichiers XML. Quand on les télécharge, IOS convertit automatiquement le fichier .xml en fichier .txt, inutilisable dans Begone.
 En respectant la procédure ci-dessous, il est possible de contourner ce problème.</i>
+
 
 **Procédure**
 
 <i>Procédure simplifiée en sélectionnant le lien</i>
 
-1. Depuis votre téléphone, <a href="https://raw.githubusercontent.com/oulixalt/BegoneListeFR/main/Begone-FR.xml">**Appuyez ici pour afficher le fichier XML**</a> <i>il faut vraiment rester appuyé sur le lien et pas cliquer</i>
+1. Depuis votre téléphone, <a href="https://raw.githubusercontent.com/oulixalt/BegoneListeFR/main/Begone-FR.xml">**Appuyez ici pour afficher le fichier XML de la liste complète**</a> (<a href="https://raw.githubusercontent.com/oulixalt/BegoneListeFR/Liste-sans-on-off/Begone-sans-onoff.xml">**pour la liste complètensans blocage des numéros OnOff appuyez ici**</a> <i>il faut vraiment rester appuyé sur le lien et pas cliquer</i>
 2. La prévisualisation s'ouvre, scrollez et cliquez sur "Télécharger le fichier lié"
 3. Dans Begone, allez dans "importer de nouveaux numéros"
 4. Sélectionnez le fichier .xml téléchargé
 5. Cliquez sur "Recharger tous les numéros" et patientez
 6. Voilà !
 
-<i>Procédure avec app type Dropbox</i>
 
-1. <a href="https://raw.githubusercontent.com/oulixalt/BegoneListeFR/main/Begone-FR.xml">**Cliquez ici pour afficher le fichier XML**</a>
-2. Cliquez sur le bouton "partager" puis sélectionnez "Enregistrer dans Dropbox" (devrait fonctionner avec n'importe quelle autre application cloud)
-3. Enregistrez le fichier dans le dossier de votre choix
-4. Dans Begone, allez dans "importer de nouveaux numéros"
-5. Sélectionnez le fichier .xml dans le dossier depuis l'application "fichiers"
-6. Cliquez sur "Recharger tous les numéros" et patientez
-7. Voilà !
+**Changelog**
+
+<i>05/06/2024</i>
+
+V1.0 : Mise en ligne de la liste complète avec blocage des numéros de démarchage et numéros OnOff : <a href="https://raw.githubusercontent.com/oulixalt/BegoneListeFR/main/Begone-FR.xml">téléchargement</a>
+
+<i>21/07/2024</i>
+
+V1.0b : Mise en ligne de la liste sans blocage des numéros OnOff (la v1.0 ne change pas, c'est juste la liste sans les numéros OnOff) : <a href="https://raw.githubusercontent.com/oulixalt/BegoneListeFR/Liste-compl%C3%A8te/Begone-sans-onoff.xml">téléchargement</a>
 
 
 **Non-responsabilité**
